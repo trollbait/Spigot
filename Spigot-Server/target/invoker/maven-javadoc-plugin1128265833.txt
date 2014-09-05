@@ -1,0 +1,27 @@
+Invoking Maven for the goals: [org.apache.maven.plugins:maven-javadoc-plugin:2.9.1:javadoc] with no properties
+
+M2_HOME=/var/lib/jenkins/tools/Maven/Maven
+MAVEN_OPTS=-Dbuild.number=1649
+JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/jre/..
+JAVA_OPTS=null
+
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Minecraft Server 1.7.10-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> maven-javadoc-plugin:2.9.1:javadoc (default-cli) @ minecraft-server >>>
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ minecraft-server ---
+[INFO] 
+[INFO] <<< maven-javadoc-plugin:2.9.1:javadoc (default-cli) @ minecraft-server <<<
+[INFO] 
+[INFO] --- maven-javadoc-plugin:2.9.1:javadoc (default-cli) @ minecraft-server ---
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.583s
+[INFO] Finished at: Thu Sep 04 05:25:13 EDT 2014
+[INFO] Final Memory: 11M/112M
+[INFO] ------------------------------------------------------------------------
